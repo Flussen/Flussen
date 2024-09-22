@@ -19,4 +19,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flussen&hide=lua" alt="Top Langs">
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flussen&theme=github-compact)](https://github.com/Flussen/GoPass)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flussen&theme=github-compact)](https://github.com/Dialosoft/backend)
