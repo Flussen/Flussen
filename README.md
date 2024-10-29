@@ -7,9 +7,12 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=for-the-badge)
 
 ### I'm Alex or Flussen.
+**Backend Developer**
+
 - 🔭 I’m currently working on [@Gopass](https://github.com/Flussen/GoPass) and [@Dialosoft](https://github.com/Dialosoft) ( they are both personal projects. )
-- 🌱 I’m currently learning Golang & Java mainly
-- 👯 I’m looking to collaborate on in an interesting project, that needs go or rust
+- 🌱 I’m improving my Go and Java mainly
+- 🎓 I’m I am studying at the [International University of Valencia](https://www.universidadviu.com/int/)
+- 👯 I’m looking to collaborate on in an interesting project, that needs Go, Java, Python or middle level languages (Rust or C/C++)
 - 📫 How to reach me: on discord Flussen, [LinkedIn](https://www.linkedin.com/in/alexander-rios-8a03b820b/) or email flussen0@gmail.com
 - 🗣️ Languages: Spanish, German and English
 
