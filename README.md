@@ -14,7 +14,8 @@
 - Languages: Spanish, German and English
 
 
-Contact me on discord Flussen, [LinkedIn](https://www.linkedin.com/in/alexander-rios-8a03b820b/) or email flussen0@gmail.com
+Contact me on discord Flussen, [LinkedIn](https://www.linkedin.com/in/alexander-rios-8a03b820b/) or email flussen0@gmail.com or my [Website](https://flussen.dev/)
+
 <hr>
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flussen&theme=github-compact)](https://flussen.dev/en/)
