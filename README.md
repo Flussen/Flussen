@@ -5,15 +5,14 @@
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-green?style=for-the-badge)
 
 ### I'm Alexander, or Flussen.
-**Software Dev mainly backend**
+**Software Engineer mainly backend**
 
-- I’m currently working on [@OpenCore](https://github.com/newcore-network/opencore) and [@OpenCore-CLI](https://github.com/newcore-network/opencore-cli)
-- I’m improving my Typescript, Go and Java mainly
-- I’m studying at the [International University of Valencia](https://www.universidadviu.com/int/)
-- I’m looking to collaborate on in an interesting project, that needs Go, Java, Python or middle level languages (Rust or C/C++)
-- How to reach me: on discord Flussen, [LinkedIn](https://www.linkedin.com/in/alexander-rios-8a03b820b/) or email flussen0@gmail.com
+- Main maintainer of [@NewCore Network](https://github.com/newcore-network)
+- Currently working on [@OpenCore](https://github.com/newcore-network/opencore) and [@OpenCore-CLI](https://github.com/newcore-network/opencore-cli)
+- Student at the [International University of Valencia](https://www.universidadviu.com/int/)
 - Languages: Spanish, German and English
 
-<hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flussen&theme=github-compact)](https://github.com/Dialosoft/backend)
+Contact me on discord Flussen, [LinkedIn](https://www.linkedin.com/in/alexander-rios-8a03b820b/) or email flussen0@gmail.com
+<hr>
+[Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flussen&theme=github-compact)
